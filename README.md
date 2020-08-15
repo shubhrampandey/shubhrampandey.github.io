@@ -1,2 +1,2 @@
-# shubhrampandey.github.io
+# Shubhram Pandey
 Personal github portfolio
